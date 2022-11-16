@@ -2,7 +2,7 @@
 
 ## BENMAOUCHE Mohamed
 
-### --- étudiant en 3eme année à l'université de LILLE, à la recherche d'un stage de 3 à 4 mois ---
+### Etudiant en 3eme année à l'université de LILLE, à la recherche d'un stage de 3 à 4 mois
 
 ## Bienvenu dans mon Dépot Git
 
